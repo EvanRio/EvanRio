@@ -12,7 +12,7 @@
 - 🧠 I’m currently developing **Studiz**, a web & mobile student productivity platform.  
 - 💻 I work mainly with **React Native**, **HTML**, **CSS**, and a bit of **Python** & **JavaScript**.  
 - 🌍 Check out my personal portfolio: [**locyzz.fr**](https://locyzz.fr)  
-- 💬 Reach me on Discord: **evanrio777**  
+- 💬 Reach me on Discord: **locyzz**  
 - 🧩 I love building things that make people’s lives easier and learning new tools every day.
 
 ---
@@ -48,15 +48,15 @@
 📚 **Studiz** is an all-in-one platform for students — schedule management, organization, and collaboration tools in one clean interface.  
 Built with **React Native**, powered by modern web technologies, and designed for real-world use.  
 
-👉 Explore it at **[studiz.locyzz.fr](https://studiz.locyzz.fr)**
+👉 Explore it at **[studiz.fun](https://studiz.fun/)**
 
 ---
 
 ### 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/evanrio777)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/locyzz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://locyzz.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/evanrio777)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LOCYZZ)
 
 ---
 
