@@ -34,15 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanrio777&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanrio777&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 🧩 Featured Project: Studiz
 
 📚 **Studiz** is an all-in-one platform for students — schedule management, organization, and collaboration tools in one clean interface.  
