@@ -8,7 +8,7 @@
 
 ### 🚀 À propos de moi
 
-- 🧠 **Développeur étudiant** en B.U.T Informatique (bac +3), **passionné** par la création d'applications mobiles et de sites web.  
+- 🧠 **Développeur étudiant** en B.U.T Informatique, **passionné** par la création d'applications mobiles et de sites web.  
 - 💻 Je travaille principalement avec **React Native**, **HTML**, **CSS**
 - 🧩 J'adore créer des outils qui simplifient la vie et apprendre de nouvelles technologies chaque jour.
 
