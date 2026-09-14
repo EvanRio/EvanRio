@@ -26,11 +26,11 @@ Mobile apps · Web development · UI & Design
 
 <br/>
 
-|               |                                                   |
-| :-----------: | :------------------------------------------------ |
-|   **Focus**   | Mobile apps, web development, UI & design         |
-|   **Stack**   | React Native, Expo, Java, HTML/CSS, MySQL         |
-| **Currently** | Studiz · Web projects · Learning new technologies |
+|               |                                                    |
+| :-----------: | :------------------------------------------------- |
+|   **Focus**   | Mobile apps, web development, UI & design          |
+|   **Stack**   | React Native, Expo, Java, HTML/CSS, MySQL          |
+| **Currently** | Studiiz · Web projects · Learning new technologies |
 
 </details>
 
@@ -42,31 +42,23 @@ Mobile apps · Web development · UI & Design
 
 <div align="center">
 
-<table>
-<tr>
-<td width="55%" valign="middle">
-
 ### Studiiz
 
-Studiiz is a mobile application designed to make everyday organization easier.
-
-It brings together useful tools to manage schedules, tasks and academic results in one simple and modern interface.
+<p align="center">
+Studiiz is a mobile application designed to make everyday organization easier.<br/>
+It brings together useful tools to manage schedules, tasks and academic results<br/>
+in one simple and modern interface.
+</p>
 
 <br/>
+
+<img src="https://i.ibb.co/1f6Rd34k/Studiz.png" width="280" alt="Studiiz" />
+
+<br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.evanrio.studiiz">
 <img src="https://i.ibb.co/8qqzXRr/Store-Google-Play-Type-Light-Language-French-2x.png" width="180" alt="Disponible sur Google Play" />
 </a>
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="https://i.ibb.co/1f6Rd34k/Studiz.png" width="280" alt="Studiiz" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -84,10 +76,10 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 **APP DEVELOPMENT**
 
-<img src="https://cdn.simpleicons.org/react/ebc4c2" width="42" alt="React Native" />
-<img src="https://cdn.simpleicons.org/expo/ebc4c2" width="42" alt="Expo" />
-<img src="https://cdn.simpleicons.org/android/ebc4c2" width="42" alt="Android" />
-<img src="https://cdn.simpleicons.org/firebase/ebc4c2" width="42" alt="Firebase" />
+<img src="https://cdn.simpleicons.org/react/111111" width="42" alt="React Native" />
+<img src="https://cdn.simpleicons.org/expo/111111" width="42" alt="Expo" />
+<img src="https://cdn.simpleicons.org/android/111111" width="42" alt="Android" />
+<img src="https://cdn.simpleicons.org/firebase/111111" width="42" alt="Firebase" />
 <img src="https://i.ibb.co/ccgd1ZPh/javafx.png" width="42" alt="JavaFX" />
 <img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="42" alt="Scene Builder" />
 
@@ -97,9 +89,9 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 **FRONT & DATA**
 
-<img src="https://cdn.simpleicons.org/html5/ebc4c2" width="42" alt="HTML5" />
-<img src="https://cdn.simpleicons.org/mysql/ebc4c2" width="42" alt="MySQL" />
-<img src="https://cdn.simpleicons.org/xampp/ebc4c2" width="42" alt="XAMPP" />
+<img src="https://cdn.simpleicons.org/html5/111111" width="42" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/mysql/111111" width="42" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/xampp/111111" width="42" alt="XAMPP" />
 <img src="https://i.ibb.co/MyhLhD61/microsoft-sql-server-Photoroom.png" width="42" alt="MS SQL Server" />
 <img src="https://i.ibb.co/Z6dkLCGg/looping.png" width="42" alt="Looping" />
 
@@ -109,7 +101,7 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 **UI & GRAPHISME**
 
-<img src="https://cdn.simpleicons.org/figma/ebc4c2" width="42" alt="Figma" />
+<img src="https://cdn.simpleicons.org/figma/111111" width="42" alt="Figma" />
 <img src="https://i.ibb.co/kV5ZpqZf/canva.png" width="42" alt="Canva" />
 <img src="https://cdn-icons-png.flaticon.com/512/1/1781.png" width="42" alt="Photoshop" />
 <img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="42" alt="Scene Builder" />
@@ -120,10 +112,10 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 **WORKFLOW & PROJECTS**
 
-<img src="https://cdn.simpleicons.org/github/ebc4c2" width="42" alt="GitHub" />
-<img src="https://cdn.simpleicons.org/vercel/ebc4c2" width="42" alt="Vercel" />
-<img src="https://cdn.simpleicons.org/eclipseide/ebc4c2" width="42" alt="Eclipse" />
-<img src="https://cdn.simpleicons.org/googledocs/ebc4c2" width="42" alt="Google Workspace" />
+<img src="https://cdn.simpleicons.org/github/111111" width="42" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/vercel/111111" width="42" alt="Vercel" />
+<img src="https://cdn.simpleicons.org/eclipseide/111111" width="42" alt="Eclipse" />
+<img src="https://cdn.simpleicons.org/googledocs/111111" width="42" alt="Google Workspace" />
 <img src="https://www.svgrepo.com/show/533349/chart-gantt.svg" width="42" alt="Gantt & PERT" />
 
 <br/><br/>
@@ -146,16 +138,23 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 <p align="center">
 <a href="https://github.com/EvanRio" target="_blank">
-<img src="https://cdn.simpleicons.org/github/ebc4c2" width="48" height="48" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://discord.com/users/locyzz" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/ebc4c2" width="48" height="48" alt="Discord" />
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/evan-heriault-37b377237/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/ebc4c2" width="48" height="48" alt="LinkedIn" />
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
 </a>
+
+<br/><br/>
+
+<a href="https://evanrio.fr/">
+<img src="https://img.shields.io/badge/MON_PORTFOLIO-ebc4c2?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Mon portfolio" />
+</a>
+
 </p>
 
 </div>
