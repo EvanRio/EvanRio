@@ -1,37 +1,63 @@
 <h1 align="center">👋 Salut, je suis Evan</h1>
 
 <p align="center">
-  <b>Développeur en apprentissage passionné par la création d'applications mobiles et de sites web.</b>
+  <b>Développeur étudiant passionné par la création d'applications mobiles et de sites web.</b>
+</p>
+
+<p align="center">
+  <a href="https://evanrio.fr/">🌐 Portfolio</a> •
+  <a href="https://studiiz.fr/">📱 Studiiz</a> •
+  <a href="https://github.com/EvanRio">💻 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_B.U.T_Informatique-blue?style=for-the-badge" alt="B.U.T Informatique"/>
+  <img src="https://img.shields.io/badge/🔍_Stage_dispo-12_avril_→_4_juin-success?style=for-the-badge" alt="Recherche de stage"/>
 </p>
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🧠 **Développeur étudiant** en B.U.T Informatique, **passionné** par la création d'applications mobiles et de sites web.  
-- 💻 Je travaille principalement avec **React Native**, **HTML**, **CSS**
-- 🧩 J'adore créer des outils qui simplifient la vie et apprendre de nouvelles technologies chaque jour.
+- 🧠 **Étudiant** en B.U.T Informatique, passionné par le développement mobile et web
+- 📱 Créateur de **[Studiiz](https://studiiz.fr/)**, mon projet principal
+- 🔍 Actuellement à la recherche d'un **stage en développement web** du **12 avril au 4 juin**
+- 🧩 J'adore créer des outils qui simplifient la vie et apprendre de nouvelles technologies chaque jour
 
 ---
 
 ### 🛠️ Stack technique
 
-#### 💻 Technologies principales
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+</p>
 
-#### 🧰 Outils & Environnement
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanRio&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanRio&theme=tokyonight&hide_border=true" alt="Streak GitHub" height="165"/>
+</p>
 
 ---
 
 ### 🌐 Me contacter
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/locyzz)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-heriault-37b377237/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/EvanRio)
+<p align="center">
+  <a href="https://discord.com/users/locyzz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.linkedin.com/in/evan-heriault-37b377237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/EvanRio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://evanrio.fr/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
