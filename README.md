@@ -5,11 +5,6 @@
 ### Building useful apps & websites
 
 Mobile apps · Web development · UI & Design
-
-<br/>
-
-[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE%20VIEWS\&color=ebc4c2\&style=for-the-badge)](https://github.com/EvanRio)
-[![Followers](https://img.shields.io/github/followers/EvanRio?label=FOLLOWERS\&style=for-the-badge\&logo=github\&logoColor=111111\&color=ebc4c2)](https://github.com/EvanRio?tab=followers)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=for-the-badge\&logo=googlechrome\&logoColor=111111)](https://evanrio.fr/)
 
 <br/><br/>
@@ -106,7 +101,7 @@ It brings together useful tools to manage schedules, tasks and academic results 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://evanrio.fr/">
 <img src="https://img.shields.io/badge/MON_PORTFOLIO-ebc4c2?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Mon portfolio" />
