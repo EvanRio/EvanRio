@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/EvanRio/EvanRio/main/assets/profile-banner.png" width="100%" alt="EvanRio banner" />
 
-### Building useful apps for students
+### Building useful apps & websites
 
-Mobile apps · Web development · Creative projects
+Mobile apps · Web development · UI & Design
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE+VIEWS\&color=000000\&style=flat-square)](https://github.com/EvanRio)[![Followers](https://img.shields.io/github/followers/EvanRio?style=flat-square\&logo=github\&logoColor=white\&label=Followers\&color=000000)](https://github.com/EvanRio?tab=followers)[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](https://evanrio.fr/)
+[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE+VIEWS\&color=ebc4c2\&style=flat-square)](https://github.com/EvanRio)[![Followers](https://img.shields.io/github/followers/EvanRio?style=flat-square\&logo=github\&logoColor=white\&label=Followers\&color=ebc4c2)](https://github.com/EvanRio?tab=followers)[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=flat-square\&logo=googlechrome\&logoColor=111111)](https://evanrio.fr/)
 
 <br/><br/>
 
@@ -20,16 +20,16 @@ Mobile apps · Web development · Creative projects
 <summary><b>ABOUT</b></summary>
 <br>
 
-> Student developer passionate about creating mobile apps and websites.
-> Building useful tools with a focus on simplicity, design, and user experience.
+> Student developer passionate about creating useful applications and websites.
+> I enjoy building projects that combine functionality, design, and a simple user experience.
 > France · BUT Informatique · Building in public on GitHub.
 
 <br/>
 
 |               |                                                   |
 | :-----------: | :------------------------------------------------ |
-|   **Focus**   | Mobile apps, web development, UI design           |
-|   **Stack**   | TypeScript, React Native, Expo, JavaScript        |
+|   **Focus**   | Mobile apps, web development, UI & design         |
+|   **Stack**   | React Native, Expo, Java, HTML/CSS, MySQL         |
 | **Currently** | Studiz · Web projects · Learning new technologies |
 
 </details>
@@ -37,31 +37,36 @@ Mobile apps · Web development · Creative projects
 ---
 
 <details open>
-<summary><b>FEATURED PROJECTS</b></summary>
+<summary><b>FEATURED PROJECT</b></summary>
 <br>
 
 <div align="center">
 
-<a href="https://github.com/EvanRio/Studiz"><img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=EvanRio&repo=Studiz&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="Studiz repository" /></a>
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-</div>
+### Studiiz
+
+Studiiz is a mobile application designed to make everyday organization easier.
+
+It brings together useful tools to manage schedules, tasks and academic results in one simple and modern interface.
 
 <br/>
 
-### 📱 Studiz
+<a href="https://play.google.com/store/apps/details?id=com.evanrio.studiiz">
+<img src="https://i.ibb.co/8qqzXRr/Store-Google-Play-Type-Light-Language-French-2x.png" width="180" alt="Disponible sur Google Play" />
+</a>
 
-> The student companion for courses, tasks, and results.
+</td>
 
-Studiz is a mobile application designed to help students organize their school life, manage their homework, and keep track of their academic results.
+<td width="45%" align="center" valign="middle">
 
-* 📚 Timetable and course management
-* ✅ Tasks and homework organization
-* 📈 Results and average tracking
-* 🎨 Simple and modern interface
+<img src="https://i.ibb.co/1f6Rd34k/Studiz.png" width="280" alt="Studiiz" />
 
-<div align="center">
-
-[![Discover Studiz](https://img.shields.io/badge/DISCOVER_STUDIZ-E8453C?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://studiiz.fr/)
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -75,9 +80,55 @@ Studiz is a mobile application designed to help students organize their school l
 
 <div align="center">
 
-### Technologies </>
+### Mobile & Dev
 
-<img src="https://skillicons.dev/icons?i=ts,react,reactnative,js,html,css,expo,java,git,github,vscode,figma&theme=dark&perline=6" alt="Skills" />
+**APP DEVELOPMENT**
+
+<img src="https://cdn.simpleicons.org/react/ebc4c2" width="42" alt="React Native" />
+<img src="https://cdn.simpleicons.org/expo/ebc4c2" width="42" alt="Expo" />
+<img src="https://cdn.simpleicons.org/android/ebc4c2" width="42" alt="Android" />
+<img src="https://cdn.simpleicons.org/firebase/ebc4c2" width="42" alt="Firebase" />
+<img src="https://i.ibb.co/ccgd1ZPh/javafx.png" width="42" alt="JavaFX" />
+<img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="42" alt="Scene Builder" />
+
+<br/><br/>
+
+### Web & BDD
+
+**FRONT & DATA**
+
+<img src="https://cdn.simpleicons.org/html5/ebc4c2" width="42" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/mysql/ebc4c2" width="42" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/xampp/ebc4c2" width="42" alt="XAMPP" />
+<img src="https://i.ibb.co/MyhLhD61/microsoft-sql-server-Photoroom.png" width="42" alt="MS SQL Server" />
+<img src="https://i.ibb.co/Z6dkLCGg/looping.png" width="42" alt="Looping" />
+
+<br/><br/>
+
+### Design
+
+**UI & GRAPHISME**
+
+<img src="https://cdn.simpleicons.org/figma/ebc4c2" width="42" alt="Figma" />
+<img src="https://i.ibb.co/kV5ZpqZf/canva.png" width="42" alt="Canva" />
+<img src="https://cdn-icons-png.flaticon.com/512/1/1781.png" width="42" alt="Photoshop" />
+<img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="42" alt="Scene Builder" />
+
+<br/><br/>
+
+### Management & Tools
+
+**WORKFLOW & PROJECTS**
+
+<img src="https://cdn.simpleicons.org/github/ebc4c2" width="42" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/vercel/ebc4c2" width="42" alt="Vercel" />
+<img src="https://cdn.simpleicons.org/eclipseide/ebc4c2" width="42" alt="Eclipse" />
+<img src="https://cdn.simpleicons.org/googledocs/ebc4c2" width="42" alt="Google Workspace" />
+<img src="https://www.svgrepo.com/show/533349/chart-gantt.svg" width="42" alt="Gantt & PERT" />
+
+<br/><br/>
+
+**UML · USE CASE · GANTT · PERT**
 
 </div>
 
@@ -94,12 +145,18 @@ Studiz is a mobile application designed to help students organize their school l
 ### Contact me
 
 <p align="center">
-<a href="https://github.com/EvanRio" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="https://discord.com/users/locyzz" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" /></a><a href="https://www.linkedin.com/in/evan-heriault-37b377237/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
+<a href="https://github.com/EvanRio" target="_blank">
+<img src="https://cdn.simpleicons.org/github/ebc4c2" width="48" height="48" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/locyzz" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/ebc4c2" width="48" height="48" alt="Discord" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/evan-heriault-37b377237/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/ebc4c2" width="48" height="48" alt="LinkedIn" />
+</a>
 </p>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-evanrio.fr-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://evanrio.fr/)[![Discord](https://img.shields.io/badge/Discord-locyzz-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/locyzz)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan_Heriault-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/evan-heriault-37b377237/)[![GitHub](https://img.shields.io/badge/GitHub-EvanRio-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EvanRio)
 
 </div>
 
@@ -109,6 +166,8 @@ Studiz is a mobile application designed to help students organize their school l
 
 <div align="center">
 
-<a href="https://github.com/EvanRio" target="_blank"><img src="https://raw.githubusercontent.com/EvanRio/EvanRio/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
+<a href="https://github.com/EvanRio" target="_blank">
+<img src="https://raw.githubusercontent.com/EvanRio/EvanRio/main/assets/footer-follow.png" width="100%" alt="Leave a follow" />
+</a>
 
 </div>
