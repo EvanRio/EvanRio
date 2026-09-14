@@ -31,7 +31,7 @@
 
 ---
 
-### 📱 Studiiz — mon projet phare
+### 📱 Studiiz - mon projet phare
 
 > **L'application ultime pour tes cours, tes tâches et tes résultats.**
 
