@@ -1,82 +1,114 @@
-<h1 align="center">👋 Salut, je suis Evan</h1>
+<div align="center">
 
-<p align="center">
-  <b>Développeur étudiant passionné par la création d'applications mobiles et de sites web.</b>
-</p>
+<img src="https://raw.githubusercontent.com/EvanRio/EvanRio/main/assets/profile-banner.png" width="100%" alt="EvanRio banner" />
 
-<p align="center">
-  <a href="https://evanrio.fr/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://studiiz.fr/">
-    <img src="https://img.shields.io/badge/Studiiz-E8453C?style=for-the-badge&logo=todoist&logoColor=white" alt="Studiiz"/>
-  </a>
-  <a href="https://github.com/EvanRio">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### Building useful apps for students
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.U.T_Informatique-1B4F9C?style=for-the-badge" alt="B.U.T Informatique"/>
-  <img src="https://img.shields.io/badge/Recherche_de_stage-12_avril_→_4_juin-1B9C5A?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Recherche de stage"/>
-</p>
+Mobile apps · Web development · Creative projects
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE+VIEWS\&color=000000\&style=flat-square)](https://github.com/EvanRio)[![Followers](https://img.shields.io/github/followers/EvanRio?style=flat-square\&logo=github\&logoColor=white\&label=Followers\&color=000000)](https://github.com/EvanRio?tab=followers)[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square\&logo=googlechrome\&logoColor=white)](https://evanrio.fr/)
+
+<br/><br/>
+
+</div>
 
 ---
 
-### 🚀 À propos de moi
+<details open>
+<summary><b>ABOUT</b></summary>
+<br>
 
-- 🧠 **Étudiant** en B.U.T Informatique, passionné par le développement mobile et web
-- 🔍 Actuellement à la recherche d'un **stage en développement web** du **12 avril au 4 juin**
-- 🧩 J'adore créer des outils qui simplifient la vie et apprendre de nouvelles technologies chaque jour
+> Student developer passionate about creating mobile apps and websites.
+> Building useful tools with a focus on simplicity, design, and user experience.
+> France · BUT Informatique · Building in public on GitHub.
 
----
+<br/>
 
-### 📱 Studiiz - mon projet phare
+|               |                                                   |
+| :-----------: | :------------------------------------------------ |
+|   **Focus**   | Mobile apps, web development, UI design           |
+|   **Stack**   | TypeScript, React Native, Expo, JavaScript        |
+| **Currently** | Studiz · Web projects · Learning new technologies |
 
-> **L'application ultime pour tes cours, tes tâches et tes résultats.**
-
-Studiiz est mon assistant étudiant moderne, simple et rapide. Il permet de suivre son année, organiser ses devoirs et visualiser sa réussite, le tout dans une interface pensée pour aller vite.
-
-- 📚 Suivi des cours et de l'année scolaire
-- ✅ Organisation des devoirs et tâches
-- 📈 Visualisation de la réussite et des résultats
-
-<p align="center">
-  <a href="https://studiiz.fr/">
-    <img src="https://img.shields.io/badge/Découvrir_Studiiz-E8453C?style=for-the-badge&logo=todoist&logoColor=white" alt="Découvrir Studiiz"/>
-  </a>
-</p>
+</details>
 
 ---
 
-### 🛠️ Stack technique
+<details open>
+<summary><b>FEATURED PROJECTS</b></summary>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+<a href="https://github.com/EvanRio/Studiz"><img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=EvanRio&repo=Studiz&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="Studiz repository" /></a>
+
+</div>
+
+<br/>
+
+### 📱 Studiz
+
+> The student companion for courses, tasks, and results.
+
+Studiz is a mobile application designed to help students organize their school life, manage their homework, and keep track of their academic results.
+
+* 📚 Timetable and course management
+* ✅ Tasks and homework organization
+* 📈 Results and average tracking
+* 🎨 Simple and modern interface
+
+<div align="center">
+
+[![Discover Studiz](https://img.shields.io/badge/DISCOVER_STUDIZ-E8453C?style=for-the-badge\&logo=googleplay\&logoColor=white)](https://studiiz.fr/)
+
+</div>
+
+</details>
 
 ---
 
-### 🌐 Me contacter
+<details open>
+<summary><b>SKILLS</b></summary>
+<br>
+
+<div align="center">
+
+### Technologies </>
+
+<img src="https://skillicons.dev/icons?i=ts,react,reactnative,js,html,css,expo,java,git,github,vscode,figma&theme=dark&perline=6" alt="Skills" />
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>CONTACT</b></summary>
+<br>
+
+<div align="center">
+
+### Contact me
 
 <p align="center">
-  <a href="https://discord.com/users/locyzz">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.linkedin.com/in/evan-heriault-37b377237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/EvanRio">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://github.com/EvanRio" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="https://discord.com/users/locyzz" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" /></a><a href="https://www.linkedin.com/in/evan-heriault-37b377237/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
 </p>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-evanrio.fr-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://evanrio.fr/)[![Discord](https://img.shields.io/badge/Discord-locyzz-000000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/locyzz)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan_Heriault-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/evan-heriault-37b377237/)[![GitHub](https://img.shields.io/badge/GitHub-EvanRio-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EvanRio)
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/EvanRio" target="_blank"><img src="https://raw.githubusercontent.com/EvanRio/EvanRio/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
+
+</div>
