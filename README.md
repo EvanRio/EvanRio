@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://evanrio.fr/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://studiiz.fr/">
-    <img src="https://img.shields.io/badge/📱_Studiiz-FF6B6B?style=for-the-badge&logoColor=white" alt="Studiiz"/>
+    <img src="https://img.shields.io/badge/Studiiz-E8453C?style=for-the-badge&logo=todoist&logoColor=white" alt="Studiiz"/>
   </a>
   <a href="https://github.com/EvanRio">
-    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_B.U.T_Informatique-2E86DE?style=for-the-badge" alt="B.U.T Informatique"/>
-  <img src="https://img.shields.io/badge/🔍_Stage_dispo-12_avril_→_4_juin-2ECC71?style=for-the-badge" alt="Recherche de stage"/>
+  <img src="https://img.shields.io/badge/B.U.T_Informatique-1B4F9C?style=for-the-badge" alt="B.U.T Informatique"/>
+  <img src="https://img.shields.io/badge/Recherche_de_stage-12_avril_→_4_juin-1B9C5A?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Recherche de stage"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Studiiz est mon assistant étudiant moderne, simple et rapide. Il permet de suiv
 
 <p align="center">
   <a href="https://studiiz.fr/">
-    <img src="https://img.shields.io/badge/👉_Découvrir_Studiiz-FF6B6B?style=for-the-badge&logoColor=white" alt="Découvrir Studiiz"/>
+    <img src="https://img.shields.io/badge/Découvrir_Studiiz-E8453C?style=for-the-badge&logo=todoist&logoColor=white" alt="Découvrir Studiiz"/>
   </a>
 </p>
 
@@ -63,15 +63,6 @@ Studiiz est mon assistant étudiant moderne, simple et rapide. Il permet de suiv
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanRio&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvanRio&theme=tokyonight&hide_border=true" alt="Streak GitHub" height="165"/>
 </p>
 
 ---
