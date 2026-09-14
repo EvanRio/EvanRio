@@ -8,7 +8,7 @@ Mobile apps · Web development · UI & Design
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE%20VIEWS\&color=ebc4c2\&style=for-the-badge\&logoColor=111111)](https://github.com/EvanRio)
+[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE%20VIEWS\&color=ebc4c2\&style=for-the-badge)](https://github.com/EvanRio)
 [![Followers](https://img.shields.io/github/followers/EvanRio?label=FOLLOWERS\&style=for-the-badge\&logo=github\&logoColor=111111\&color=ebc4c2)](https://github.com/EvanRio?tab=followers)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=for-the-badge\&logo=googlechrome\&logoColor=111111)](https://evanrio.fr/)
 
@@ -70,25 +70,14 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 <div align="center">
 
-| **Mobile & Dev** | **Web & BDD** |
-| :--------------- | :------------ |
-| React Native     | HTML / CSS    |
-| Expo             | MySQL         |
-| Android          | XAMPP         |
-| Firebase         | MS SQL Server |
-| JavaFX           | Looping       |
-| Scene Builder    |               |
-
-<br/>
-
-| **Design**    | **Management & Tools** |
-| :------------ | :--------------------- |
-| Figma         | GitHub                 |
-| Canva         | Vercel                 |
-| Photoshop     | Eclipse                |
-| Scene Builder | Google Workspace       |
-|               | Gantt & PERT           |
-|               | UML & Use Case         |
+| **Mobile & Dev** | **Web & BDD** | **Design**    | **Management & Tools** |
+| :--------------- | :------------ | :------------ | :--------------------- |
+| React Native     | HTML / CSS    | Figma         | GitHub                 |
+| Expo             | MySQL         | Canva         | Vercel                 |
+| Android          | XAMPP         | Photoshop     | Eclipse                |
+| Firebase         | MS SQL Server | Scene Builder | Google Workspace       |
+| JavaFX           | Looping       |               | Gantt & PERT           |
+| Scene Builder    |               |               | UML & Use Case         |
 
 </div>
 
