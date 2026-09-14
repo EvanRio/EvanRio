@@ -5,14 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://evanrio.fr/">🌐 Portfolio</a> •
-  <a href="https://studiiz.fr/">📱 Studiiz</a> •
-  <a href="https://github.com/EvanRio">💻 GitHub</a>
+  <a href="https://evanrio.fr/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://studiiz.fr/">
+    <img src="https://img.shields.io/badge/📱_Studiiz-FF6B6B?style=for-the-badge&logoColor=white" alt="Studiiz"/>
+  </a>
+  <a href="https://github.com/EvanRio">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_B.U.T_Informatique-blue?style=for-the-badge" alt="B.U.T Informatique"/>
-  <img src="https://img.shields.io/badge/🔍_Stage_dispo-12_avril_→_4_juin-success?style=for-the-badge" alt="Recherche de stage"/>
+  <img src="https://img.shields.io/badge/🎓_B.U.T_Informatique-2E86DE?style=for-the-badge" alt="B.U.T Informatique"/>
+  <img src="https://img.shields.io/badge/🔍_Stage_dispo-12_avril_→_4_juin-2ECC71?style=for-the-badge" alt="Recherche de stage"/>
 </p>
 
 ---
@@ -20,9 +26,26 @@
 ### 🚀 À propos de moi
 
 - 🧠 **Étudiant** en B.U.T Informatique, passionné par le développement mobile et web
-- 📱 Créateur de **[Studiiz](https://studiiz.fr/)**, mon projet principal
 - 🔍 Actuellement à la recherche d'un **stage en développement web** du **12 avril au 4 juin**
 - 🧩 J'adore créer des outils qui simplifient la vie et apprendre de nouvelles technologies chaque jour
+
+---
+
+### 📱 Studiiz — mon projet phare
+
+> **L'application ultime pour tes cours, tes tâches et tes résultats.**
+
+Studiiz est mon assistant étudiant moderne, simple et rapide. Il permet de suivre son année, organiser ses devoirs et visualiser sa réussite, le tout dans une interface pensée pour aller vite.
+
+- 📚 Suivi des cours et de l'année scolaire
+- ✅ Organisation des devoirs et tâches
+- 📈 Visualisation de la réussite et des résultats
+
+<p align="center">
+  <a href="https://studiiz.fr/">
+    <img src="https://img.shields.io/badge/👉_Découvrir_Studiiz-FF6B6B?style=for-the-badge&logoColor=white" alt="Découvrir Studiiz"/>
+  </a>
+</p>
 
 ---
 
@@ -56,8 +79,13 @@
 ### 🌐 Me contacter
 
 <p align="center">
-  <a href="https://discord.com/users/locyzz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.linkedin.com/in/evan-heriault-37b377237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/EvanRio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://evanrio.fr/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://discord.com/users/locyzz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.linkedin.com/in/evan-heriault-37b377237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/EvanRio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
