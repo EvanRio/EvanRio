@@ -8,9 +8,9 @@ Mobile apps · Web development · UI & Design
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE%20VIEWS\&color=ebc4c2\&style=for-the-badge\&labelColor=111111)](https://github.com/EvanRio)
-[![Followers](https://img.shields.io/github/followers/EvanRio?label=FOLLOWERS\&style=for-the-badge\&logo=github\&logoColor=111111\&color=ebc4c2\&labelColor=111111)](https://github.com/EvanRio?tab=followers)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=for-the-badge\&logo=googlechrome\&logoColor=111111\&labelColor=111111)](https://evanrio.fr/)
+[![Profile views](https://komarev.com/ghpvc/?username=EvanRio\&label=PROFILE%20VIEWS\&color=ebc4c2\&style=for-the-badge\&logoColor=111111)](https://github.com/EvanRio)
+[![Followers](https://img.shields.io/github/followers/EvanRio?label=FOLLOWERS\&style=for-the-badge\&logo=github\&logoColor=111111\&color=ebc4c2)](https://github.com/EvanRio?tab=followers)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=for-the-badge\&logo=googlechrome\&logoColor=111111)](https://evanrio.fr/)
 
 <br/><br/>
 
@@ -70,65 +70,25 @@ It brings together useful tools to manage schedules, tasks and academic results 
 
 <div align="center">
 
-### Mobile & Dev
+| **Mobile & Dev** | **Web & BDD** |
+| :--------------- | :------------ |
+| React Native     | HTML / CSS    |
+| Expo             | MySQL         |
+| Android          | XAMPP         |
+| Firebase         | MS SQL Server |
+| JavaFX           | Looping       |
+| Scene Builder    |               |
 
-**APP DEVELOPMENT**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,expo,android,firebase,java&theme=dark" alt="Mobile technologies" />
-
-<br/><br/>
-
-<img src="https://i.ibb.co/ccgd1ZPh/javafx.png" width="48" alt="JavaFX" />
-&nbsp;&nbsp;
-<img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="48" alt="Scene Builder" />
-
-<br/><br/>
-
-### Web & BDD
-
-**FRONT & DATA**
-
-<img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" alt="Web technologies" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/xampp/F37623" width="48" alt="XAMPP" />
-&nbsp;&nbsp;
-<img src="https://i.ibb.co/MyhLhD61/microsoft-sql-server-Photoroom.png" width="48" alt="Microsoft SQL Server" />
-&nbsp;&nbsp;
-<img src="https://i.ibb.co/Z6dkLCGg/looping.png" width="48" alt="Looping" />
-
-<br/><br/>
-
-### Design
-
-**UI & GRAPHISME**
-
-<img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Design technologies" />
-
-<br/><br/>
-
-<img src="https://i.ibb.co/kV5ZpqZf/canva.png" width="48" alt="Canva" />
-&nbsp;&nbsp;
-<img src="https://i.ibb.co/pjLfrh0Q/scenebuilder.png" width="48" alt="Scene Builder" />
-
-<br/><br/>
-
-### Management & Tools
-
-**WORKFLOW & PROJECTS**
-
-<img src="https://skillicons.dev/icons?i=github,vercel,eclipse,googlecloud&theme=dark" alt="Management and tools" />
-
-<br/><br/>
-
-<img src="https://www.svgrepo.com/show/533349/chart-gantt.svg" width="48" alt="Gantt & PERT" />
-
-<br/><br/>
-
-**UML · USE CASE · GANTT · PERT**
+| **Design**    | **Management & Tools** |
+| :------------ | :--------------------- |
+| Figma         | GitHub                 |
+| Canva         | Vercel                 |
+| Photoshop     | Eclipse                |
+| Scene Builder | Google Workspace       |
+|               | Gantt & PERT           |
+|               | UML & Use Case         |
 
 </div>
 
@@ -160,7 +120,7 @@ It brings together useful tools to manage schedules, tasks and academic results 
 <br/><br/>
 
 <a href="https://evanrio.fr/">
-<img src="https://img.shields.io/badge/MON_PORTFOLIO-ebc4c2?style=for-the-badge&logo=googlechrome&logoColor=111111&labelColor=111111" alt="Mon portfolio" />
+<img src="https://img.shields.io/badge/MON_PORTFOLIO-ebc4c2?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Mon portfolio" />
 </a>
 
 </p>
