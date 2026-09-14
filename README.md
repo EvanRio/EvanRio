@@ -5,6 +5,7 @@
 ### Building useful apps & websites
 
 Mobile apps · Web development · UI & Design
+<br/>
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ebc4c2?style=for-the-badge\&logo=googlechrome\&logoColor=111111)](https://evanrio.fr/)
 
 <br/><br/>
@@ -101,7 +102,7 @@ It brings together useful tools to manage schedules, tasks and academic results 
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://evanrio.fr/">
 <img src="https://img.shields.io/badge/MON_PORTFOLIO-ebc4c2?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Mon portfolio" />
